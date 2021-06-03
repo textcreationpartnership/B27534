@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The oath of allegiance, enacted 13. Jacobi, Cap.4. Which oath was solemnly taken by every member of both houses of Parliament, Rump and all.</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27534</idno><idno type="EEBO-CITATION">99886225</idno>
+  <idno type="VID">186485</idno>
+  <idno type="EEBO-PROQUEST">2240882531</idno>
+  
+            <idno type="STC">Wing O71</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.112.h.4[28]</idno>
+            <idno type="STC">ESTC R225711</idno>
+            <idno type="PROQUEST">ocm99886225</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886225e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27534)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186485)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C5:1[28])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The oath of allegiance, enacted 13. Jacobi, Cap.4. Which oath was solemnly taken by every member of both houses of Parliament, Rump and all.</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.] Printed for the benefit of those persons who have forgotten that they did once take this oath.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Anno Dom. 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Oaths --  England --  Early works to 1800.</term>
+               <term type="topical_term">Allegiance --  England --  Early works to 1800.</term>
+               <term type="topical_term">Loyalty oaths --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="oath">
+            <pb facs="tcp:186485:1"/>
+            <pb facs="tcp:186485:1"/>
+            <head type="illustration">
+               <figure>
+                  <figDesc>depiction of crown</figDesc>
+               </figure>
+            </head>
+            <head>The Oath of Allegiance, Enacted 13. <hi>Jacobi, Cap.</hi> 4.</head>
+            <head type="sub">Which Oath was solemnly taken by every Member of both Houses of PARLIAMENT, RUMP and all.</head>
+            <p>I <hi>A. B.</hi> do truly and sincerely acknowledge, professe, testifie, and declare in my Conscience before God and the World, That our Soveraign Lord KING <hi>CHARLS</hi> is lawfull and rightfull King of this Realm, and of all other His Majesties Dominions and Countreys; and that the Pope neither of himself, nor by any Authority of the Church or See of <hi>Rome,</hi> or by any other means with any other, hath any power or authority to depose the King, or to dis<g ref="char:EOLhyphen"/>pose any of his Majesties Kingdomes or Dominions, or to authorize any forreign Prince to invade or annoy him, or his Countreys, or to discharge any of his Subjects of their Allegiance, and obedience to his Majesty, or to give License, or leave to any of them to bear Arms, raise Tumult, or to offer any violence or hurt to his Majesties Royal Person, State or Government, or to any of His Majesties Subjects within His Majesties Dominions.</p>
+            <p>Also, I do swear from my heart, That, notwithstanding any Declaration, or Sentence of Excom<g ref="char:EOLhyphen"/>munication, or Deprivation made or granted, or to be made or granted by the Pope, or his Suc<g ref="char:EOLhyphen"/>cessors, or by any Authority derived, or pretended to be derived from him, or his See, against the said King, His Heirs, or Successors, or any Absolution of the said Subjects from their obedience: I will bear Faith and true Allegiance to His Majesty, His Heirs and Successors; and him and them will defend to the uttermost of my power, against all Conspiracies and Attempts whatsoever, which shall be made against His, or their Persons, their Crown and Dignity, by reason or colour of any such Sentence or Declaration, or otherwise: and will do my best endeavour to disclose and make known unto His Majesty, His Heirs and Successors, all Treasons and Traiterous Conspira<g ref="char:EOLhyphen"/>cies which I shall know or hear of to be against Him, or any of them.</p>
+            <p>And I do further swear, that I do from my heart abhor, detest, and abjure, as impious and here<g ref="char:EOLhyphen"/>tical, this damnable Doctrine and Position, <hi>That Princes which be Excommunicated or deprived by the Pope, may be depos'd, or murther'd by their Subjects, or any other whatsoever.</hi>
+            </p>
+            <p>And I do believe and in conscience am resolved, that neither the Pope nor any person whatso<g ref="char:EOLhyphen"/>ever, hath power to absolve me of this Oath, or any part thereof, which I acknowledge by good and full Authority to be lawfully ministred unto me; and do renounce all Pardons and Dispensa<g ref="char:EOLhyphen"/>tions to the contrary: And all these things I do plainly and sincerely acknowledge and swear, according to these express words by me spoken, and according to the plain and common sence and understanding of the same words, without any Equivocation, or mental Evasion, or secret Reservation whatsoever. And I do make this Recognition and acknowledgement heartily, wil<g ref="char:EOLhyphen"/>lingly and truly, upon the true Faith of a Christian.</p>
+            <trailer>So help me God.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for the benefit of those Persons who have forgotten that they did once take this Oath. <hi>Anno Dom.</hi> 1660.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
